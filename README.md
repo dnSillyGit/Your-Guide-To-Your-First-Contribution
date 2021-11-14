@@ -2,7 +2,7 @@
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: https://ibm.biz/BdfhFn
+- Login/Sign Up for IBM Cloud: https://ibm.biz/OpenSource-IBM
   
 - Hands-On Guide: https://github.com/IBMDeveloperMEA/Your-Guide-To-Your-First-Contribution
 
