@@ -39,7 +39,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-![img3](/images/clone3.png)
+![img3](/images/clone2.png)
 
 For example:
 
