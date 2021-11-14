@@ -1,16 +1,14 @@
-# !!Add workshop title!!
-
-Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io
+# Your Guide to Open-Source &amp; Software Development Trends
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: <Link>
+- Login/Sign Up for IBM Cloud: https://ibm.biz/BdfhFn
   
-- Hands-On Guide: <Link>
+- Hands-On Guide: https://github.com/IBMDeveloperMEA/Your-Guide-To-Your-First-Contribution
 
-- Slides: <Link>
+- Slides: https://ibmdevelopermea.github.io/Your-Guide-To-Your-First-Contribution/
 
-- Workshop Replay: <Link>
+- Workshop Replay: https://www.youtube.com/watch?v=zvEgQEDk18k 
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -44,13 +42,13 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: <Link>
+- Login/Sign Up for IBM Cloud: https://ibm.biz/BdfhFn
+  
+- Hands-On Guide: https://github.com/IBMDeveloperMEA/Your-Guide-To-Your-First-Contribution
 
-- Hands-On Guide: <Link>
+- Slides: https://ibmdevelopermea.github.io/Your-Guide-To-Your-First-Contribution/
 
-- Slides: <Link>
-
-- Workshop Replay: <Link>
+- Workshop Replay: https://www.youtube.com/watch?v=zvEgQEDk18k 
 
 
 ## Reference Links
