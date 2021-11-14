@@ -10,6 +10,8 @@
 
 - Workshop Replay: https://www.youtube.com/watch?v=zvEgQEDk18k 
 
+### Interested to check out some cool open source projects? Attend the Call for Code awards happening later today: https://developer.ibm.com/callforcode/awards/ 
+
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
 1. [Your title](#Your-title)  
@@ -50,9 +52,16 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 - Workshop Replay: https://www.youtube.com/watch?v=zvEgQEDk18k 
 
+## Interested to check out some cool open source projects? Attend the Call for Code awards happening later today: https://developer.ibm.com/callforcode/awards/ 
 
-## Reference Links
-  
-## Done with the workshop? Here are some things you can try further
+## Some interesting resources for you to check out!
 
-## Workshop Speakers
+- https://www.redhat.com/en/about/our-community-contributions 
+
+- https://www.ibm.com/opensource/ 
+
+- https://www.ibm.com/opensource/open-projects/ 
+
+- https://www.linuxfoundation.org 
+ 
+- https://opensource.org 
